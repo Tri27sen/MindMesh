@@ -3,8 +3,6 @@ Hi there 👋
 
 
 Frontend: Next.js, TypeScript
-Backend: Node.js, NextAuth, Zod, LangChain
-Database:Mongodb
 
 
 
