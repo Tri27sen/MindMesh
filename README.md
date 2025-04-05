@@ -2,12 +2,6 @@
 Hi there 👋 
 
 
-Frontend: Next.js, TypeScript
-
-
-
-
-
 
 
 
