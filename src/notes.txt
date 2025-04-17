@@ -3,6 +3,8 @@ copy url from local sever ot posiible
 
 for password missmatch  - no username / email showing 
 
+
+
 ai showing prob 
 http://192.168.1.4:3000/u/trisha
  github actions 
